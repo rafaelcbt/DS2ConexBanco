@@ -146,3 +146,8 @@ C:\Users\alunocax\Documents\ProjetoEmpresa\bin\Debug\netcoreapp3.1\runtimes\win-
 C:\Users\alunocax\Documents\ProjetoEmpresa\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\alunocax\Documents\ProjetoEmpresa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\alunocax\Documents\ProjetoEmpresa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alunocax\Documents\ProjetoEmpresa\obj\Debug\netcoreapp3.1\Razor\Views\Funcionarios\Create.cshtml.g.cs
+C:\Users\alunocax\Documents\ProjetoEmpresa\obj\Debug\netcoreapp3.1\Razor\Views\Funcionarios\Delete.cshtml.g.cs
+C:\Users\alunocax\Documents\ProjetoEmpresa\obj\Debug\netcoreapp3.1\Razor\Views\Funcionarios\Details.cshtml.g.cs
+C:\Users\alunocax\Documents\ProjetoEmpresa\obj\Debug\netcoreapp3.1\Razor\Views\Funcionarios\Edit.cshtml.g.cs
+C:\Users\alunocax\Documents\ProjetoEmpresa\obj\Debug\netcoreapp3.1\Razor\Views\Funcionarios\Index.cshtml.g.cs

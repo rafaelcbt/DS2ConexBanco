@@ -25,9 +25,12 @@ namespace ProjetoEmpresa
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            var connection = Configuration["ConnectionStrings:ProjetoEmpresaContext"];
 
-            services.AddDbContext<ProjetoEmpresaContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("ProjetoEmpresaContext")));
+            services.AddDbContext<ProjetoEmpresaContext>(options => options.UseMySql(connection)
+            );
+
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
